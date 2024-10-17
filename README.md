@@ -27,3 +27,7 @@ Complain Master is a web-based complaint management system built using **ASP.NET
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/complain-master.git
+2. Open the solution in Visual Studio.
+3. Configure the SQL Server connection in the web.config file.
+4. Build and run the project from Visual Studio.
+5. Access the application in your browser.
